@@ -1,0 +1,397 @@
+.stylinglogo{
+    width: 150px;
+    height: 85px;
+    padding: 1px;
+    padding-left: 25px;
+}
+.stylinglogo2{
+    width: 450px;
+    height: 120px;
+    padding: 2px;
+    padding-left: 25px;
+}
+.fordimagelg{
+    width: 150px;
+    height: 100px;
+}
+.smlpara{
+    font-size: 15px;
+    color: white;
+}
+.contain:hover{
+    transform:scale(1.12);
+}
+.broncoimg{
+    width:30px;
+    height:28px;
+}
+.fordtoughimg{
+    width: 35px;
+    height: 30px;
+}
+.mustangimg{
+    width:40px;
+    height:35px;
+}
+.locationimg{
+    width:40px;
+    height:40px;
+}
+.hundprct{
+    width: 30px;
+    height: 35px;
+}
+.subnav{
+    background-color: #00142e;
+    height: 68px;
+}
+.frexp{
+    text-align: center;
+    font-style: italic;
+    border-radius: 8%;
+   
+    border-color: white;
+    color: white;
+    background-color: #183b56;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-top: 3px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-width: 2px;
+    letter-spacing: 5px;
+    
+    
+}
+.frexp:hover{background-color: blue;}
+#go{
+    color: black;
+    padding: 5px 14px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+}
+#go:hover{
+    color: blue;
+    border: 0px;
+}
+#gool{
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+    margin-left: 20px;
+}
+#gool:hover{
+    color: black;
+    background-color: red;
+}
+.bgimg1{
+    background-image: url("https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/performance/gt/billboards/3_2/GTMkII_Billboard_Desktop_2160x945.jpg/jcr:content/renditions/cq5dam.web.2160.2160.jpeg");
+    background-size: cover;
+    height: 85vh;
+}
+.head1{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30%;
+    padding-right: 40%;
+}
+.paralinelink{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    padding-right: 70%;
+    padding-bottom: 40%;
+}
+.bgcolor2{
+    background-color: white;
+}
+.bgcolor3{
+    background-color: black;
+}
+.bgcolor4{
+    background-color: #323f4b;
+}
+.cardhead{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.spec{
+    padding-bottom: 30px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    letter-spacing: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+.carpara{
+    font-size: 20px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 30px;
+}
+.head2{
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.para:hover{background-color: lightskyblue;}
+.para2{
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.carding{
+    height:95%;
+    text-align: center;
+    background-color:white ;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.carding1{
+    height:95%;
+    text-align: center;
+    background-color:white ;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #e5eaf4;
+    border-radius: 20px;
+}
+.card8image{
+    width: 200px;
+    height: 130px;
+}
+.cardimage{
+    width:120px;
+    height:120px;
+}
+.carhead{
+    font-size: 30px;
+    font-weight: bold;
+    color:#00142e;
+}
+.card1image{
+    width: 130px;
+    height: 100px;
+}
+.card7image{
+    width: 220px;
+    height: 120px;
+}
+.card1image:hover{
+    transform:scale(1.40);
+}
+.card2image{
+    width: 160px;
+    height: 100px;
+}
+.card2image:hover{
+    transform:scale(1.40);
+}
+.card3image{
+    width: 160px;
+    height: 100px;
+}
+.card3image:hover{
+    transform:scale(1.40);
+}
+.card4img{
+    width:130px;
+    height:100px;
+}
+.card4img:hover{
+    transform:scale(1.40);
+}
+.card5img{
+    width:140px;
+    height:100px;
+}
+.card5img:hover{
+    transform:scale(1.40);
+}
+.card6img{
+    width:140px;
+    height:100px;
+}
+.card6img:hover{
+    transform:scale(1.40);
+}
+.spec1img{
+    width: 190px;
+    height: 150px;
+}
+.spec1img:hover{
+    transform:scale(1.40);
+}
+.spec2img{
+    width: 190px;
+    height: 150px;
+}
+.spec2img:hover{
+    transform:scale(1.40);
+}
+.spec3img{
+    width: 190px;
+    height: 150px;
+}
+.spec3img:hover{
+    transform:scale(1.40);
+}
+.spec4img{
+    width: 190px;
+    height: 150px;
+}
+.spec4img:hover{
+    transform:scale(1.40);
+}
+.spec5img{
+    width: 190px;
+    height: 150px;
+}
+.spec5img:hover{
+    transform:scale(1.40);
+}
+.c2para{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.carding6{
+    height:96%;
+    text-align: center;
+    background-color:white ;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #e5eaf4;
+    border-radius: 25px;
+}
+.chead{
+    color: #323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+.cpara{
+    color: #7b8794;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.c1para{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.offers{
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+.bgimgg3{
+    background-color: white;
+}
+.explorehead{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.explorecards{
+    border-radius: 16px;
+}
+.cardpara{
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+}
+.explorecards:hover{
+    transform:scale(1.12);
+}
+.exploreimage{
+    border-radius: 16px;
+}
+.cardhead4{
+    color:#323f4b;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+.explorelink{
+    color: #c90202;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.paybgimg{
+    background-color: white;
+}
+.paymentimg{
+    width: 350px;
+}
+.payhead{
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+.paypara{
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.cstbutton{
+    color: white;
+    background-color: #c90202;
+    width: 137px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.cstbutton:hover{background-color: darkblue;}
+.paycardimg{
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+#contact{
+    background-color: #183b56;
+    padding-bottom: 4rem;
+}
+.socialicons{
+    font-size: 40px;
+    cursor: pointer;
+}
+#icenter1{
+    text-align: center;
+}
+.fa-brands{
+    color: white;
+}
+.fa-square-facebook,.fa-instagram,.fa-linkedin,.fa-youtube{
+    margin: 40px;
+}
+.fa-youtube:hover{
+    color: red;
+}
+.fa-square-facebook:hover,.fa-linkedin:hover{
+    color: blue;
+}
+.fa-instagram:hover{
+    color: rgb(243, 16, 175);
+}
